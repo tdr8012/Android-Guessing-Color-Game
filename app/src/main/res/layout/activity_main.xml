@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/image2"
+    android:id="@+id/main">
+    <TextView
+        android:id="@+id/txtViewUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Username"
+        android:textSize="24sp"
+        android:textColor="@color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="250dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnGame"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/txtViewUsername"
+        android:layout_marginTop="40dp"
+        android:text="GAME"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/cyan"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnScore"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/btnGame"
+        android:layout_marginTop="40dp"
+        android:text="SCORE"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/light_red"
+        android:textStyle="bold" />
+</RelativeLayout>
