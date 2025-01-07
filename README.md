@@ -29,7 +29,7 @@ This project is an Android application developed as part of the **Android Mobile
 
 ## Technical Details
 
-- **Language**: Java/Kotlin
+- **Language**: Java
 - **Framework**: Android SDK
 - **Database**: Firebase Realtime Database
 - **UI Design**: XML layouts with responsive design principles
