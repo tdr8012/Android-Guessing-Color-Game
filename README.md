@@ -1,6 +1,6 @@
 # Android Application
 
-This project is an Android application developed as part of the **Android Mobile Development** course at LaSalle College, Fall 2024. The application demonstrates core Android development principles, including user registration, interactive activities, and database integration.
+This small assignment is an Android application developed as part of the **Android Mobile Development** course at LaSalle College, Fall 2024. The application demonstrates core Android development principles, including user registration, interactive activities, and database integration.
 
 ## Features
 
